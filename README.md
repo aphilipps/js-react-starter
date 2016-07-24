@@ -1,7 +1,7 @@
 # React Note App
 
-Git url:
-Notes app:
+Git url: https://github.com/aphilipps/js-react-starter
+Notes app: http://philipps-noteapp.surge.sh/
 
 For this assignment we had to create an application in which we could create sticky notes, move them around, have them render markdown, and delete them.
 
