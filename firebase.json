@@ -1,0 +1,8 @@
+{
+"notes":[
+    {"title":"Note1", "content":"1", "x": 100, "y": 100, "zIndex": 0},
+    {"title":"Note2", "content":"2", "x": 200, "y": 200, "zIndex": 1},
+    {"title":"Note3", "content":"3", "x": 300, "y": 300, "zIndex": 2},
+],
+"maxZIndex":""
+}

@@ -26,10 +26,8 @@ class InputBar extends Component {
 
 
       <div id="input-bar">
-        <form>
-          <input type="text" name="Title" placeholder="New Note Title" onChange={this.onInputChange} />
-          <button type="submit" onClick={this.onClick}>Click Me!</button> ..
-        </form>
+        <input type="text" value={this.state.noteTitle} name="Title" placeholder="New Note Title" onChange={this.onInputChange} />
+        <button type="submit" onClick={this.onClick}>Click Me!</button> ..
       </div>
     );
   }
